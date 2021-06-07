@@ -1,0 +1,11 @@
+{
+  "Todo": {
+    "id": "string",
+    "name": "string",
+    "userId": "string",
+    "status": "number",
+    "deleteflg": "number",
+    "createdAt": "date",
+    "updatedAt": "date"
+  }
+}
